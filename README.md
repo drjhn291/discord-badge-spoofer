@@ -71,3 +71,5 @@ This tool violates Discord's Terms of Service. Use it at your own risk and only 
 ## License
 
 Released under the MIT License. See [LICENSE](LICENSE).
+## 📄 Support
+* **Support:** If you find **Discord Badge Spoofer** useful, consider supporting future updates on [Ko-fi](https://ko-fi.com/drjhn291).
