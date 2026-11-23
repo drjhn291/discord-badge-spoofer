@@ -1,0 +1,15 @@
+# Local credentials and state
+client_state.json
+science_state.json
+
+# Cached game lists
+games_cache.json
+games.json
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.idea/
+.vscode/
